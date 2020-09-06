@@ -16,8 +16,8 @@
 ### How to execute the project
 1.You need to run npm-install
 2.Install all the packages().
-In cmd execute npm start to run the project in localhost:30003.
-=======
+In cmd execute npm start to run the project in localhost:3000.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
