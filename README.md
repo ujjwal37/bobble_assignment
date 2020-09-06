@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+
+### Application working
+1.Facebook login is working
+2.If username , password , email  is missing user will not able to signup
+3.reqres api are working for verification.
+4.Responsive web pages.
+
 ### Tecchnology used
 1.React.js 
 2.Bootstrap
@@ -6,7 +13,7 @@
 4.Reqres
 5.Axios
 
-# How to execute the project
+### How to execute the project
 1.You need to run npm-install
 2.Install all the packages().
 In cmd execute npm start to run the project in localhost:30003.
