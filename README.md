@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+### Tecchnology used
+1.React.js 
+2.Bootstrap
+3.Facebook-developer sdk
+4.Reqres
+5.Axios
+
 # How to execute the project
-1.Unzip the bobble.zip folder
-2.Install node modules with axios.js , react-facebook
+1.You need to run npm-install
+2.Install all the packages().
 In cmd execute npm start to run the project in localhost:30003.
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
